@@ -14,7 +14,5 @@
 * Quiz disappears and High Scores box pops up with place to enter initials which will then post initials with your score.
 
 ## Website
+https://vijaaay.github.io/hw4-code-quiz/
 
-[Go to Live Javascript Quiz Page]()
-
-![Javascript Quiz]()
