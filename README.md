@@ -16,4 +16,4 @@
 ## Website
 https://vijaaay.github.io/hw4-code-quiz/
 
-![Image of Trivia quiz] (https://github.com/vijaaay/hw4-code-quiz/blob/main/trivia_quiz_screenshot.png)
+! [Image] (https://github.com/vijaaay/hw4-code-quiz/blob/main/trivia_quiz_screenshot.png)
